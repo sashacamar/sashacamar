@@ -29,9 +29,11 @@ Front-end, Back-end
 <img src="https://miro.medium.com/v2/0*rwd6KeolcXgz7zpx.png" alt="Logo de GitHub" width="30"/>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Logo de git" width="30"/>
 <img src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg" alt="Logo de sql" width="50"/>
-</div> <br/>
+</div>
+
 
 También tengo conocimientos en herramientas de diseño como **Figma**, paquete de **Adobe Creative Cloud** y **Corel Draw**
+
 
 
 ### No dudes en contactarme! 

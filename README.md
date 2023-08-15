@@ -1,4 +1,4 @@
-# Hola! Soy Sasha Camargo
+# Hola! Soy Sasha Camargo 👩‍💻
 
 
 ### Quién soy?
@@ -35,8 +35,8 @@ Front-end, Back-end
 También tengo conocimientos en herramientas de diseño como **Figma**, paquete de **Adobe Creative Cloud** y **Corel Draw**
 
 
-
+</br></br></br>
 ### No dudes en contactarme! 
 Podemos conectar desde [LinkedIn](https://www.linkedin.com/in/sasha-camargo/)
-</br></br>
+</br>
 o enviame un correo a **sashacamargo@gmail.com**

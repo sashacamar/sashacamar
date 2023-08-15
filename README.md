@@ -2,7 +2,7 @@
 
 
 ### Quién soy?
-Soy **Programadora Full Stack** <br/>
+Soy **Programadora Full Stack** </br>
 Desde que era pequeña, siempre me ha gustado mucho el diseño y la tecnología. Y lo genial es que no he tenido que elegir entre una u otra. Ahora puedo trabajar en proyectos donde puedo usar ambas habilidades.
 
 #
@@ -11,7 +11,7 @@ En la actualidad, me enfoco en llevar a cabo proyectos que no solo me brindan nu
 
 #
 ### A dónde me dirijo?
-Mi objetivo es seguir creciendo y aprendiendo, esta vez como parte de equipos de trabajo colaborativos. <br/>
+Mi objetivo es seguir creciendo y aprendiendo, esta vez como parte de equipos de trabajo colaborativos. </br>
 Me esfuerzo por mantenerme en constante aprendizaje.
 
 **Intereses:**
@@ -30,7 +30,7 @@ Front-end, Back-end
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Logo de git" width="30"/>
 <img src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg" alt="Logo de sql" width="50"/>
 </div>
-
+</br>
 
 También tengo conocimientos en herramientas de diseño como **Figma**, paquete de **Adobe Creative Cloud** y **Corel Draw**
 
@@ -38,5 +38,5 @@ También tengo conocimientos en herramientas de diseño como **Figma**, paquete 
 
 ### No dudes en contactarme! 
 Podemos conectar desde [LinkedIn](https://www.linkedin.com/in/sasha-camargo/)
-<br/><br/>
+</br></br>
 o enviame un correo a **sashacamargo@gmail.com**
